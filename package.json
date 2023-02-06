@@ -2,6 +2,7 @@
 	"author": "Swann",
 	"description": "Tuto API",
 	"name": "fcc-learn-npm-package-json",
+	"keywords": ["freecodecamp"],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
